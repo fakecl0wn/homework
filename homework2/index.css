@@ -1,0 +1,19 @@
+body {
+    font-size: 14px;
+}
+#div1 {
+color: #e1b22a;
+}
+#div2 {
+    color:blue;
+    font-size: 20px;
+}
+.color-title {
+    text-decoration: underline;
+    color: red;
+    font-size: 18px;
+}
+.list {
+    color:#2b99bf;
+    font-size: 16px;
+}
